@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Watch Store</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<h1>Luxury Watch Store</h1>
+
+<div class="product">
+<img src="images/watch1.jpg" width="200">
+<h3>Classic Watch</h3>
+<p>$120</p>
+<button>Buy Now</button>
+</div>
+
+<div class="product">
+<img src="images/watch2.jpg" width="200">
+<h3>Sport Watch</h3>
+<p>$150</p>
+<button>Buy Now</button>
+</div>
+
+</body>
+</html>
